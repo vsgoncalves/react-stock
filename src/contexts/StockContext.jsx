@@ -49,6 +49,7 @@ export function StockContextProvider({ children }) {
     })
   }
 
+
   const stock = {
     items,
     addItem,
