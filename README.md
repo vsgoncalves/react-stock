@@ -1,9 +1,41 @@
 # Descrição 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Esse CRUD de GESTOR DE ESTOQUE feito com React, React Router, Vite e persistindo os dados no LocalStorage do navegador.
+
+# Funcionalidades 
 
 # Tecnologias
-* [![React][React.js]][React-url]
+- React
+- Vite
+
+# Rodando o projeto 
+1. Clonar o repositório
+   ```sh
+   git clone https://git@github.com:vsgoncalves/react-stock.git
+   ```
+
+2. Instando o NPM 
+   ```sh
+   npm install
+   ```
+3. Abrindo o repositorio com o VSCODE 
+   ```sh
+   code .
+   ```
+4. Instalando o PROP-TYPES e REACT-ROUTER-DOM dentro do terminal do VSCODE 
+   ```sh
+   npm install prop-types react-router-dom
+   ```
+5. Rodando a aplicaçcão 
+   ```sh
+   npm run dev
+   ```   
+
+ 
+# Colaborador 
+
+# Contribuições
+As contribuições são o que torna a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Quaisquer contribuições que você fizer são muito apreciadas.
 
 
 Currently, two official plugins are available:
