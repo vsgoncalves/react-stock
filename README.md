@@ -1,6 +1,8 @@
 # Descrição 
 
-Esse CRUD de GESTOR DE ESTOQUE feito com React, React Router, Vite e persistindo os dados no LocalStorage do navegador.
+Esse CRUD de GESTOR DE ESTOQUE tem o objetivo de administrar uma lista de itens, que são divididos em categorias pré definidas.
+Seus dados ficam armazenados no LocalStorage do navegador. A gestão dos dados é feita em um Dashboad.
+
 
 # Funcionalidades 
 - Dashboard inicial que mostre:
@@ -9,10 +11,11 @@ Esse CRUD de GESTOR DE ESTOQUE feito com React, React Router, Vite e persistindo
    - Lista de itens adicionados no últimos 10 dias.
    - Quantidade de itens com menos de 10 em estoque.
    - Lista dos itens com menos de 10 em estoque.
-- Página que liste todo o estoque com a possibilidade de VER DETALHES, ATUALIZAR e EXCLUIR
-- Página que para exibir as informações detalhadas dos itens com a possibilidade de ATUALIZAR e EXCLUIR
-- Página para cadastrar novos itens
-- Página para atualizar os itens
+- Listar todos os itens com a possibilidade de VER DETALHES, ATUALIZAR e EXCLUIR
+- Exibir as informações detalhadas dos itens com a possibilidade de ATUALIZAR e EXCLUIR
+- Cadastrar novos itens
+- Atualizar os itens
+- Excluir os itens
 
 # Tecnologias
 - React
@@ -50,7 +53,3 @@ Esse CRUD de GESTOR DE ESTOQUE feito com React, React Router, Vite e persistindo
 As contribuições são o que torna a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Quaisquer contribuições que você fizer são muito apreciadas.
 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
