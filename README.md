@@ -3,9 +3,20 @@
 Esse CRUD de GESTOR DE ESTOQUE feito com React, React Router, Vite e persistindo os dados no LocalStorage do navegador.
 
 # Funcionalidades 
+- Dashboard inicial que mostre:
+   - Quantidade de tipos de itens cadastrados.
+   - Quantidade total de itens em estoque.
+   - Lista de itens adicionados no últimos 10 dias.
+   - Quantidade de itens com menos de 10 em estoque.
+   - Lista dos itens com menos de 10 em estoque.
+- Página que liste todo o estoque com a possibilidade de VER DETALHES, ATUALIZAR e EXCLUIR
+- Página que para exibir as informações detalhadas dos itens com a possibilidade de ATUALIZAR e EXCLUIR
+- Página para cadastrar novos itens
+- Página para atualizar os itens
 
 # Tecnologias
 - React
+- React Router
 - Vite
 
 # Rodando o projeto 
@@ -33,6 +44,7 @@ Esse CRUD de GESTOR DE ESTOQUE feito com React, React Router, Vite e persistindo
 
  
 # Colaborador 
+- Vinicius Gonçalves
 
 # Contribuições
 As contribuições são o que torna a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Quaisquer contribuições que você fizer são muito apreciadas.
