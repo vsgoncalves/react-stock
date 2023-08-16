@@ -1,9 +1,9 @@
 # Descrição 
-
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 # Tecnologias
-
+* [![React][React.js]][React-url]
 
 
 Currently, two official plugins are available:
